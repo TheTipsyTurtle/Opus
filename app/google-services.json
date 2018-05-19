@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "811731354880",
+    "firebase_url": "https://coffee-bc141.firebaseio.com",
+    "project_id": "coffee-bc141",
+    "storage_bucket": "coffee-bc141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811731354880:android:7a06b19037641610",
+        "android_client_info": {
+          "package_name": "com.example.supornochaudhury.opus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811731354880-014tbdcfnef6lh8gu57qf8t51gg5q2f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supornochaudhury.opus",
+            "certificate_hash": "8fc56ba137470e3271d03643076940497f23b292"
+          }
+        },
+        {
+          "client_id": "811731354880-7qjbgjv10k8djju4s85oajvpdfjbrhl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFy9aBb8jtmHO1wl_q0bPvX3S_qxCBmu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811731354880-7qjbgjv10k8djju4s85oajvpdfjbrhl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811731354880:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811731354880-s4b3h1tjh4k50an37tbi0tcmpel3fth3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "8fc56ba137470e3271d03643076940497f23b292"
+          }
+        },
+        {
+          "client_id": "811731354880-7qjbgjv10k8djju4s85oajvpdfjbrhl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFy9aBb8jtmHO1wl_q0bPvX3S_qxCBmu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811731354880-7qjbgjv10k8djju4s85oajvpdfjbrhl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
